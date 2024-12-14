@@ -18,35 +18,35 @@
                 "name": "Fighting Arena",
                 "uniques": [],
                 "row": 1,
-                "column": 3
+                "column": 6
             },
             {
                 "name": "Duelling",
                 "uniques": [],
                 "requires": ["Fighting Arena"],
-                "row": 2,
-                "column": 3
+                "row": 3,
+                "column": 6
             },
             {
                 "name": "Public House",
                 "uniques": [],
                 "requires": ["Fighting Arena"],
                 "row": 1,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "House of Pleasure",
                 "uniques": [],
                 "requires": ["Public House"],
-                "row": 2,
-                "column": 2
+                "row": 3,
+                "column": 1
             },
             {
                 "name": "Moonshine",
                 "uniques": [],
                 "requires": ["Public House"],
                 "row": 1,
-                "column": 1
+                "column": -1
             },
 
             
