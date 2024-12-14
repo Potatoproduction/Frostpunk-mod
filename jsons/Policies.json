@@ -13,16 +13,50 @@
             "[+3 Culture] [in capital]",
             "[-25]% Culture cost of natural border growth [in all cities]"
         ],
-        "policies": [
             {
-                "name": "Fighting Arena",
-                "uniques": [],
+                "name": "Populism",
+                "uniques": ["[+25]% Strength <for [Wounded] units>"],
                 "row": 1,
-                "column": 8
+                "column": 2
+            },
+            {
+                "name": "Militarism",
+                "uniques": ["[Gold] cost of purchasing [All] units [-33]%"],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Fascism",
+                "uniques": [
+                    "Quantity of strategic resources produced by the empire +[100]%",
+                    "[+2] Movement <for [Great General] units>"
+                ],
+                "requires": ["Populism", "Militarism"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Police State",
+                "uniques": [
+                    "[+3 Happiness] from every [Courthouse]",
+                    "[Gold] cost of purchasing [Courthouse] buildings [-50]%"
+                ],
+                "requires": ["Militarism"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Total War",
+                "uniques": [
+                    "[+25]% Production when constructing [Military] units [in all cities]",
+                    "New [Military] units start with [15] Experience [in all cities]"
+                ],
+                "requires": ["Police State", "Fascism"],
+                "row": 3,
+                "column": 3
             },
             {
                 "name": "Adaptation Complete",
                 "uniques": []
             }
-        ]
     }]
