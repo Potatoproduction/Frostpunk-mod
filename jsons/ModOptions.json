@@ -1,9 +1,9 @@
 {
     "isBaseRuleset": true,
-    "uniques": {
+    "uniques": [
 	"Allow raze capital",
 	"Allow raze holy city"
-    }
+    ]
     "constants": {
     "maxXPfromBarbarians": 100,
     "cityStrengthBase": 0,
