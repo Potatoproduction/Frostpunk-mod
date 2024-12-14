@@ -1,5 +1,9 @@
 {
     "isBaseRuleset": true,
+    "uniques": {
+	"Allow raze capital",
+	"Allow raze holy city"
+    }
     "constants": {
     "maxXPfromBarbarians": 100,
     "cityStrengthBase": 0,
@@ -12,5 +16,5 @@
     "cityWorkRange": 5,
     "cityExpandRange": 5,
     "unitSupplyPerPopulation": 0.25
-	}
+    }
 }
