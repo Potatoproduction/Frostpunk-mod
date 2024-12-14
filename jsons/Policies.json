@@ -27,9 +27,21 @@
                 "column": 3
             },
             {
+                "name": "House of Pleasure",
+                "uniques": [],
+                "row": 2,
+                "column": 3
+            },
+            {
                 "name": "Fighting Arena",
                 "uniques": [],
                 "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Duelling",
+                "uniques": [],
+                "row": 2,
                 "column": 5
             },
             {
@@ -39,9 +51,21 @@
                 "column": 7
             },
             {
-                "name": "Child Labor",
+                "name": "Extended Shift",
+                "uniques": [],
+                "row": 2,
+                "column": 7
+            },
+            {
+                "name": "Child Labor (safe jobs)",
                 "uniques": [],
                 "row": 1,
+                "column": 9
+            },
+            {
+                "name": "Child Labor (all jobs)",
+                "uniques": [],
+                "row": 2,
                 "column": 9
             },
             {
