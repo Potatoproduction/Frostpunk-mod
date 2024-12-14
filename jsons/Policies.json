@@ -13,6 +13,7 @@
             "[+3 Culture] [in capital]",
             "[-25]% Culture cost of natural border growth [in all cities]"
         ],
+        "policies":[
             {
                 "name": "Populism",
                 "uniques": ["[+25]% Strength <for [Wounded] units>"],
@@ -59,4 +60,5 @@
                 "name": "Adaptation Complete",
                 "uniques": []
             }
+        ]
     }]
