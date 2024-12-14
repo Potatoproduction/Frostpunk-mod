@@ -12,7 +12,7 @@
 		"name": "Babylon",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": ["Babylonian"],
-		"startBias": ["Avoid [Tundra]"],
+		"startBias": [],
 		"preferredVictoryType": "Scientific",
 		"personality": "Nebuchadnezzar II",
 
@@ -44,7 +44,7 @@
 		"name": "Greece",
 		"leaderName": "Alexander",
 		"adjective": ["Greek"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType":"Diplomatic",
 		"personality": "Alexander",
 
@@ -108,7 +108,7 @@
 		"name": "Egypt",
 		"leaderName": "Ramesses II",
 		"adjective": ["Egyptian"],
-		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
+		"startBias": [],
 		"preferredVictoryType": "Cultural",
 		"personality": "Ramesses II",
 
@@ -141,7 +141,7 @@
 		"name": "England",
 		"leaderName": "Elizabeth",
 		"adjective": ["English"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Elizabeth",
 
@@ -200,7 +200,7 @@
 		"name": "Russia",
 		"leaderName": "Catherine",
 		"adjective": ["Russian"],
-		"startBias": ["Tundra"],
+		"startBias": [],
 		"preferredVictoryType": "Scientific",
 		"personality": "Catherine",
 
@@ -231,7 +231,7 @@
 		"name": "Rome",
 		"leaderName": "Augustus Caesar",
 		"adjective": ["Roman"],
-		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
+		"startBias": [],
 		"preferredVictoryType": "Scientific",
 		"personality": "Augustus Caesar",
 
@@ -261,7 +261,7 @@
 		"name": "Arabia",
 		"leaderName": "Harun al-Rashid",
 		"adjective": ["Arabian"],
-		"startBias": ["Desert"],
+		"startBias": [],
 		"preferredVictoryType": "Scientific",
 		"personality": "Harun al-Rashid",
 
@@ -322,7 +322,7 @@
 		"name": "Japan",
 		"leaderName": "Oda Nobunaga",
 		"adjective": ["Japanese"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Oda Nobunaga",
 
@@ -351,7 +351,7 @@
 		"name": "India",
 		"leaderName": "Gandhi",
 		"adjective": ["Indian"],
-		"startBias": ["Grassland"],
+		"startBias": [],
 		"preferredVictoryType": "Cultural",
 		"personality": "Gandhi",
 
@@ -413,7 +413,7 @@
 		"name": "The Ottomans",
 		"leaderName": "Suleiman I",
 		"adjective": ["Ottoman"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Suleiman I",
 
@@ -445,7 +445,7 @@
 		"name": "Korea",
 		"leaderName": "Sejong",
 		"adjective": ["Korean"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Scientific",
 		"personality": "Sejong",
 
@@ -475,7 +475,7 @@
 		"name": "Iroquois",
 		"leaderName": "Hiawatha",
 		"adjective": ["Iroquoise"],
-		"startBias": ["Forest"],
+		"startBias": [],
 		"preferredVictoryType": "Scientific",
 		"personality": "Hiawatha",
 
@@ -539,7 +539,7 @@
 		"name": "Polynesia",
 		"leaderName": "Kamehameha I",
 		"adjective": ["Polynesia"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Cultural",
 		"personality": "Kamehameha I",
 
@@ -570,7 +570,7 @@
 		"name": "Siam",
 		"leaderName": "Ramkhamhaeng",
 		"adjective": ["Siamese"],
-		"startBias": ["Avoid [Forest]"],
+		"startBias": [],
 		"preferredVictoryType":"Diplomatic",
 		"personality": "Ramkhamhaeng",
 
@@ -599,7 +599,7 @@
 		"name": "Spain",
 		"leaderName": "Isabella",
 		"adjective": ["Spanish"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Isabella",
 
@@ -629,7 +629,7 @@
 		"name": "Songhai",
 		"leaderName": "Askia",
 		"adjective": ["Songhai"],
-		"startBias": ["Avoid [Tundra]"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Askia",
 
@@ -658,7 +658,7 @@
 		"name": "Mongolia",
 		"leaderName": "Genghis Khan",
 		"adjective": ["Mongolian"],
-		"startBias": ["Plains"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Genghis Khan",
 
@@ -687,7 +687,7 @@
 		"name": "Aztecs",
 		"leaderName": "Montezuma I",
 		"adjective": ["Aztec"],
-		"startBias": ["Jungle"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Montezuma I",
 
@@ -721,7 +721,7 @@
 		"name": "Inca",
 		"leaderName": "Pachacuti",
 		"adjective": ["Incan"],
-		"startBias": ["Hill"],
+		"startBias": [],
 		"preferredVictoryType": "Cultural",
 		"personality": "Pachacuti",
 
@@ -755,7 +755,7 @@
 		"name": "Denmark",
 		"leaderName": "Harald Bluetooth",
 		"adjective": ["Danish"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Cultural",
 		"personality": "Harald Bluetooth",
 
@@ -788,7 +788,7 @@
 		"name": "The Huns",
 		"leaderName": "Attila the Hun",
 		"adjective": ["Hunnic"],
-		"startBias": ["Avoid [Jungle]", "Avoid [Forest]"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Attila the Hun",
 
@@ -816,7 +816,7 @@
 		"name": "The Netherlands",
 		"leaderName": "William of Orange",
 		"adjective": ["Dutch"],
-		"startBias": ["Grassland"],
+		"startBias": [],
 		"preferredVictoryType": "Cultural",
 		"personality": "William of Orange",
 
@@ -843,7 +843,7 @@
 	    "name": "Sweden",
 		"leaderName": "Gustavus Adolphus",
 		"adjective": ["Swedish"],
-		"startBias": ["Tundra"],
+		"startBias": [],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Gustavus Adolphus",
 
@@ -875,7 +875,7 @@
 		"name": "Austria",
 		"leaderName": "Maria Theresa",
 		"adjective": ["Austrian"],
-		"startBias": ["Hill"],
+		"startBias": [],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Maria Theresa",
 
@@ -908,7 +908,7 @@
 		"name": "Carthage",
 		"leaderName": "Dido",
 		"adjective": ["Carthaginian"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Dido",
 
@@ -937,7 +937,7 @@
 		"name": "Byzantium",
 		"leaderName": "Theodora",
 		"adjective": ["Byzantine"],
-		"startBias": ["Coast"],
+		"startBias": [],
 		"preferredVictoryType": "Cultural",
 		"personality": "Theodora",
 
@@ -966,7 +966,7 @@
 		"name": "Celts",
 		"leaderName": "Boudicca",
 		"adjective": ["celtic"],
-		"startBias": ["Forest"],
+		"startBias": [],
 		"preferredVictoryType": "Domination",
 		"personality": "Boudicca",
 
@@ -1000,7 +1000,7 @@
 		"name": "Ethiopia",
 		"leaderName": "Haile Selassie",
 		"adjective": ["ethiopian"],
-		"startBias": ["Jungle"],
+		"startBias": [],
 		"preferredVictoryType": "Cultural",
 		"personality": "Haile Selassie",
 
@@ -1033,7 +1033,7 @@
 		"name": "The Maya",
 		"leaderName": "Pacal",
 		"adjective": ["mayan"],
-		"startBias": ["Jungle"],
+		"startBias": [],
 		"preferredVictoryType": "Scientific",
 		"personality": "Pacal",
 
@@ -1212,7 +1212,7 @@
 		"name": "Rio de Janeiro",
 		"adjective": ["Carioca"],
 		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
+		"startBias": [],
 
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
 		"attacked": "You can see how fruitless this will be for you... right?",
@@ -1237,7 +1237,7 @@
 		"name": "Ur",
 		"adjective": ["Ur"],
 		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
+		"startBias": [],
 
 		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
 		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",
@@ -1262,7 +1262,7 @@
 		"name": "Venice",
 		"adjective": ["Venetian"],
 		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
+		"startBias": [],
 
 		"declaringWar": "You have revealed your purposes a bit too early, my friend...",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1276,7 +1276,7 @@
 		"name": "Antwerp",
 		"adjective": ["Antwerp"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
+		"startBias": [],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1289,7 +1289,7 @@
 		"name": "Genoa",
 		"adjective": ["Genoese"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
+		"startBias": [],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1326,7 +1326,7 @@
 		"name": "Tyre",
 		"adjective": ["Tyrian"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
+		"startBias": [],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
