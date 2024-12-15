@@ -10,8 +10,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[+3 Culture] [in capital]",
-            "[-25]% Culture cost of natural border growth [in all cities]"
+            "Comment [Times have changed, we must adapt to this new world, even if it means resorting to desperate measures...]"
         ],
         "policies":[
             {
@@ -72,6 +71,24 @@
                 "requires": ["Child Labor (safe jobs)"],
                 "row": 2,
                 "column": 9
+            },
+            {
+                "name": "Child Shelters",
+                "uniques": [],
+                "row": 1,
+                "column": 12
+            },
+            {
+                "name": "Medic Apprentices",
+                "uniques": [],
+                "row": 2,
+                "column": 11
+            },
+            {
+                "name": "Engineer Apprentices",
+                "uniques": [],
+                "row": 2,
+                "column": 13
             },
             {
                 "name": "Adaptation Complete",
