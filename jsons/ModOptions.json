@@ -15,6 +15,8 @@
     "baseCityBombardRange": 0,
     "cityWorkRange": 5,
     "cityExpandRange": 5,
-    "unitSupplyPerPopulation": 0.25
+    "unitSupplyPerPopulation": 0.25,
+    "religionLimitBase": 1,
+    "religionLimitMultiplier": 0.5,
     }
 }
