@@ -61,7 +61,7 @@
             },
             {
                 "name": "Child Labor (safe jobs)",
-                "uniques": [],
+                "uniques": ["Only available <before adopting [Child Shelters]>"],
                 "row": 1,
                 "column": 9
             },
@@ -74,20 +74,20 @@
             },
             {
                 "name": "Child Shelters",
-                "uniques": [],
+                "uniques": ["Only available <before adopting [Child Labor (safe jobs)]>"],
                 "row": 1,
                 "column": 12
             },
             {
                 "name": "Medic Apprentices",
-                "uniques": [],
+                "uniques": ["Only available <before adopting [Engineer Apprentices]>"],
                 "requires": ["Child Shelters"],
                 "row": 2,
                 "column": 11
             },
             {
                 "name": "Engineer Apprentices",
-                "uniques": [],
+                "uniques": ["Only available <before adopting [Medic Apprentices]>"],
                 "requires": ["Child Shelters"],
                 "row": 2,
                 "column": 13
