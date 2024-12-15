@@ -81,14 +81,14 @@
             {
                 "name": "Medic Apprentices",
                 "uniques": [],
-                "requires": ["Child Shelters""],
+                "requires": ["Child Shelters"],
                 "row": 2,
                 "column": 11
             },
             {
                 "name": "Engineer Apprentices",
                 "uniques": [],
-                "requires": ["Child Shelters""],
+                "requires": ["Child Shelters"],
                 "row": 2,
                 "column": 13
             },
