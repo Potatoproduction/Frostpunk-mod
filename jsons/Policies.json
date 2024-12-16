@@ -68,7 +68,7 @@
             {
                 "name": "Child Labor (all jobs)",
                 "uniques": ["[-3 Happiness] [in capital]", "[1] population [in all cities]"],
-                "requires": ["Child Labor (safe jobs)", "[-3 Happiness] [in capital]", "[1] population [in all cities]"],
+                "requires": ["Child Labor (safe jobs)"],
                 "row": 2,
                 "column": 9
             }
