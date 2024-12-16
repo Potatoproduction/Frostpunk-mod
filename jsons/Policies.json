@@ -61,7 +61,7 @@
             },
             {
                 "name": "Child Labor (safe jobs)",
-                "uniques": ["Only available <before adopting [Child Shelters]>", "[-2 Happiness] [in capital]", "[+2 Food] [in capital]"],
+                "uniques": ["[-2 Happiness] [in capital]", "[+2 Food] [in capital]"],
                 "row": 1,
                 "column": 9
             },
