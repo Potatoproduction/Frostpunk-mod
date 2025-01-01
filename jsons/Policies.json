@@ -87,7 +87,7 @@
             },
             {
                 "name": "Soup",
-                "uniques": ["[15]% Unhappiness from [Population] [in all cities]", "[+25]% [Food] [in all cities]",
+                "uniques": ["[15]% Unhappiness from [Population] [in all cities]", "[+25]% [Food] [in all cities]"],
                 "row": 1,
                 "column": 14
             },
