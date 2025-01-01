@@ -74,7 +74,7 @@
             },
             {
                 "name": "Child Shelters",
-                "uniques": ["[+2 Happiness] [in capital]"],
+                "uniques": ["[+2 Happiness] [in capital]", "Only available <after adopting [Child Labor (safe jobs)]>"],
                 "row": 1,
                 "column": 11
             },
@@ -87,13 +87,13 @@
             },
             {
                 "name": "Soup",
-                "uniques": ["[15]% Unhappiness from [Population] [in all cities]", "[+25]% [Food] [in all cities]"],
+                "uniques": ["[15]% Unhappiness from [Population] [in all cities]", "[+25]% [Food] [in all cities]", "Only available <after adopting [Food Additives]>"],
                 "row": 1,
                 "column": 13
             },
             {
                 "name": "Food Additives",
-                "uniques": ["[30]% Unhappiness from [Population] [in all cities]", "[+50]% [Food] [in all cities]"],
+                "uniques": ["[30]% Unhappiness from [Population] [in all cities]", "[+50]% [Food] [in all cities]", "Only available <after adopting [Soup]>"],
                 "row": 2,
                 "column": 13
             },
